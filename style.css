@@ -1,0 +1,41 @@
+/*###############
+ Banner Image Section  
+ ################*/
+.hero-img{
+    background-image:url('images/Rectangle7.png'), url('images/banner.png');
+    background-repeat: no-repeat;
+    height: 100vh;
+    border-radius: 8px;
+}
+/*#############
+ Special Card Section  
+ ##############*/
+.sp-column{
+    background-image: linear-gradient(180deg, #F3F3F3 0%, rgba(243, 243, 243, 0) 100%);
+}
+
+/*##############
+ Slide Image Section  
+ ###############*/
+
+.background-img-1{
+    background-image:url('images/Rectangle7.png'), url('images/slider-1.jpg');
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+}
+.background-img-2{
+    background-image:url('images/Rectangle7.png'), url('images/slider-2.jpg');
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+}
+.background-img-3{
+    background-image:url('images/Rectangle7.png'), url('images/slider-3.jpg');
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+}
+.contact-bg{
+    background-color: #F3F3F3;
+}
